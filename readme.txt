@@ -13,4 +13,5 @@ La construcción de este sistema está basado en la Arquitectura n-capas, es dec
 Realizamos pruebas unitarias eligiendo dos objetos de nuestro value object y demostramos el correcto funcionamiento de los métodos implementados.
 
 Por último, tenemos dos espacios de almacemientos que podemos elegir de forma manual. Por un lado, se guardan datos en memoria y por el otro, en una base externa como SQL Server. Aquí mismo se podrá verificar los nuevos datos cargados y las nuevas modificaciones realizadas.
+
  
